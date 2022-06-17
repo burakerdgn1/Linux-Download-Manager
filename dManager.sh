@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BACKTITLE="Download Manager by MUSTAFA AYKAÇ & BURAK ERDOĞAN "
+BACKTITLE="Download Manager by BURAK ERDOĞAN"
 TITLE="Download Manager"
 MENU="Select from the options below"
 DOWNLOADS="$HOME/Downloads/"
